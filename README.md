@@ -7,9 +7,9 @@ The transform.xsl file is fully functionable.
 
 All you have to do is:
  1. Download repository xml file. (i.e http://dl-ssl.google.com/android/repository/repository-8.xml)
- 2. Insert following two lines at the head of the xml file.
-      <?xml version="1.0" encoding="UTF-8"?>
+ 2. Insert following two lines at the head of the xml file.<br />
+      <?xml version="1.0" encoding="UTF-8"?><br />
       <?xml-stylesheet type="text/xsl" href="transform1.xsl"?>
  3. Now open the xml file in the browser.
 
-You can give your styles to the table.
+You can give your styles to the table in transform.xsl.
