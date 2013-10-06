@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="transform1.xsl"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?>
 
 <sdk:sdk-repository xmlns:sdk="http://schemas.android.com/sdk/android/repository/8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <sdk:license id="android-sdk-license" type="text">
